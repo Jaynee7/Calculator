@@ -1,0 +1,32 @@
+C:\Users\Skearch\source\repos\mdas\obj\Debug\net8.0-windows\mdas.Form1.resources
+C:\Users\Skearch\source\repos\mdas\obj\Debug\net8.0-windows\mdas.csproj.GenerateResource.cache
+C:\Users\Skearch\source\repos\mdas\obj\Debug\net8.0-windows\mdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skearch\source\repos\mdas\obj\Debug\net8.0-windows\mdas.AssemblyInfoInputs.cache
+C:\Users\Skearch\source\repos\mdas\obj\Debug\net8.0-windows\mdas.AssemblyInfo.cs
+C:\Users\Skearch\source\repos\mdas\obj\Debug\net8.0-windows\mdas.csproj.CoreCompileInputs.cache
+C:\Users\Skearch\source\repos\mdas\bin\Debug\net8.0-windows\mdas.exe
+C:\Users\Skearch\source\repos\mdas\bin\Debug\net8.0-windows\mdas.deps.json
+C:\Users\Skearch\source\repos\mdas\bin\Debug\net8.0-windows\mdas.runtimeconfig.json
+C:\Users\Skearch\source\repos\mdas\bin\Debug\net8.0-windows\mdas.dll
+C:\Users\Skearch\source\repos\mdas\bin\Debug\net8.0-windows\mdas.pdb
+C:\Users\Skearch\source\repos\mdas\obj\Debug\net8.0-windows\mdas.dll
+C:\Users\Skearch\source\repos\mdas\obj\Debug\net8.0-windows\refint\mdas.dll
+C:\Users\Skearch\source\repos\mdas\obj\Debug\net8.0-windows\mdas.pdb
+C:\Users\Skearch\source\repos\mdas\obj\Debug\net8.0-windows\mdas.genruntimeconfig.cache
+C:\Users\Skearch\source\repos\mdas\obj\Debug\net8.0-windows\ref\mdas.dll
+C:\Users\Janine Escala\Downloads\mdas\mdas\bin\Debug\net8.0-windows\mdas.exe
+C:\Users\Janine Escala\Downloads\mdas\mdas\bin\Debug\net8.0-windows\mdas.deps.json
+C:\Users\Janine Escala\Downloads\mdas\mdas\bin\Debug\net8.0-windows\mdas.runtimeconfig.json
+C:\Users\Janine Escala\Downloads\mdas\mdas\bin\Debug\net8.0-windows\mdas.dll
+C:\Users\Janine Escala\Downloads\mdas\mdas\bin\Debug\net8.0-windows\mdas.pdb
+C:\Users\Janine Escala\Downloads\mdas\mdas\obj\Debug\net8.0-windows\mdas.Form1.resources
+C:\Users\Janine Escala\Downloads\mdas\mdas\obj\Debug\net8.0-windows\mdas.csproj.GenerateResource.cache
+C:\Users\Janine Escala\Downloads\mdas\mdas\obj\Debug\net8.0-windows\mdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janine Escala\Downloads\mdas\mdas\obj\Debug\net8.0-windows\mdas.AssemblyInfoInputs.cache
+C:\Users\Janine Escala\Downloads\mdas\mdas\obj\Debug\net8.0-windows\mdas.AssemblyInfo.cs
+C:\Users\Janine Escala\Downloads\mdas\mdas\obj\Debug\net8.0-windows\mdas.csproj.CoreCompileInputs.cache
+C:\Users\Janine Escala\Downloads\mdas\mdas\obj\Debug\net8.0-windows\mdas.dll
+C:\Users\Janine Escala\Downloads\mdas\mdas\obj\Debug\net8.0-windows\refint\mdas.dll
+C:\Users\Janine Escala\Downloads\mdas\mdas\obj\Debug\net8.0-windows\mdas.pdb
+C:\Users\Janine Escala\Downloads\mdas\mdas\obj\Debug\net8.0-windows\mdas.genruntimeconfig.cache
+C:\Users\Janine Escala\Downloads\mdas\mdas\obj\Debug\net8.0-windows\ref\mdas.dll
